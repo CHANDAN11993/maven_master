@@ -22,3 +22,4 @@ sh label: '', script: 'scp /home/ubuntu/.jenkins/workspace/ScriptedPipeline/weba
 	}
 }
 git 
+
